@@ -86,6 +86,21 @@ WORD: **SCIENCE**
       -0.0714 | absence         
 ------------------------------
 
+WORD: **GOD**
+   TOP SIMILAR: 
+      0.5716 | heracles        
+      0.5634 | defender        
+      0.5591 | prophecy        
+      0.5448 | archery         
+      0.5389 | flocks          
+   LEAST SIMILAR: 
+      -0.1216 | preservation   
+      -0.1156 | manifested     
+      -0.1151 | sites          
+      -0.0827 | michael        
+      -0.0799 | policy         
+------------------------------
+
 WORD: **AMERICAN**
    TOP SIMILAR: 
       0.6694 | samoa            
